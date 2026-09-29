@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fog-Safe Haulage Digital Twin
 
 A runnable software prototype for Smart India Hackathon PS 26007: **Safe and Efficient Operation of Mine Vehicles in Fog and Low-Visibility Conditions in Open Cast Iron Ore Mines** (NMDC, Bailadila). No physical hardware is used.
@@ -40,3 +41,6 @@ Baseline trucks use a visibility-limited driver sight distance and late braking.
 - Dumper acceleration, braking, load/dump times, uphill speed, geofence radii, and zone limits are illustrative editable values in `config.py`, not NMDC equipment specifications.
 - The comparison is a deterministic software experiment, not a measured field trial. Improve/decline percentages depend on duration and scenario. The app includes an honest sensor simulation notice.
 - Chart.js and Socket.IO browser bundles are loaded from CDNs; an internet connection is needed for those UI libraries unless served locally.
+=======
+# Fogshield__
+>>>>>>> e9a5a4fdbc17058b1eb159fbf8501c6f59171921
